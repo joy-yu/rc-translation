@@ -1,0 +1,14 @@
+.Trans-box{
+  position: absolute;
+  width: 300px;
+  border: 2px solid #f00;
+  background: #addce2;
+  font-size: 12px;
+  margin: 0;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+
+.Trans-title{
+  font-weight: bold;
+}
