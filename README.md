@@ -1,3 +1,3 @@
-﻿##划词翻译  
+﻿##React划词翻译  
 
-待写。。  
+[传送门](http://joy-yu.github.io/rc-translation/)
