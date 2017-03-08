@@ -1,4 +1,4 @@
-.Trans-box{
+.trans-box{
   position: absolute;
   width: 300px;
   border: 2px solid #f00;
@@ -9,6 +9,6 @@
   box-sizing: border-box;
 }
 
-.Trans-title{
+.trans-title{
   font-weight: bold;
 }
